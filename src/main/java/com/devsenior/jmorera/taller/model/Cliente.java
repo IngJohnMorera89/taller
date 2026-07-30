@@ -1,4 +1,4 @@
-package com.devsenior.jmorera.taller.entity;
+package com.devsenior.jmorera.taller.model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,9 +1,7 @@
-package com.devsenior.jmorera.taller.entity;
+package com.devsenior.jmorera.taller.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
-
-import com.devsenior.jmorera.taller.model.EstadoOrden;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
